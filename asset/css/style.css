@@ -54,8 +54,8 @@
   );
   --text-gradient-yellow: linear-gradient(
     to right, 
-    hsl(199, 67%, 57%), 
-    hsl(199, 67%, 57%)
+    hsl(209, 98%, 60%), 
+    hsl(209, 98%, 60%)
   );
 
   /* solid */
@@ -767,8 +767,8 @@ main {
   align-items: flex-start;
   gap: 15px;
   margin: 0 -15px;
-  padding: 25px;
-  padding-bottom: 25px;
+  padding: 10px;
+  padding-bottom: 16px;
   overflow-x: auto;
   scroll-behavior: smooth;
   overscroll-behavior-inline: contain;
